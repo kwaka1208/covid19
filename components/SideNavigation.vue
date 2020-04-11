@@ -150,7 +150,7 @@ export default {
         {
           icon: 'school',
           title: this.$t('school activity status'),
-          link: 'https://crssrds.jp/school_info/'
+          link: 'https://crssrds.jp/school_info/',
           divider: true
         },
         {
